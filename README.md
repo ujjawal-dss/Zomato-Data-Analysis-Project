@@ -20,5 +20,5 @@ Seaborn 🎨 – Creating heatmaps, bar charts & pair plots for insights.
 ✔️ What’s the average order cost for two people?
 ![Alt Text](https://github.com/ujjawal-dss/Zomato-Data-Analysis-Project/blob/main/avg_order_couples.png)
 
-✔️ Does online or offline mode get better ratings?
+✔️ Which restaurant type receives more offline orders?
 ![Alt Text](https://github.com/ujjawal-dss/Zomato-Data-Analysis-Project/blob/main/offline_order.png)
