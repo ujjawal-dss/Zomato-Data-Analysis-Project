@@ -22,3 +22,6 @@ Seaborn 🎨 – Creating heatmaps, bar charts & pair plots for insights.
 
 ✔️ Which restaurant type receives more offline orders?
 ![Alt Text](https://github.com/ujjawal-dss/Zomato-Data-Analysis-Project/blob/main/offline_order.png)
+
+✔️ Does online or offline mode get better ratings?
+![Alt Text](https://github.com/ujjawal-dss/Zomato-Data-Analysis-Project/blob/main/max_rating.png)
