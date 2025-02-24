@@ -12,4 +12,4 @@ Seaborn 🎨 – Creating heatmaps, bar charts & pair plots for insights.
 📊 Key Insights Analyzed
 
 ✔️ Which restaurant type attracts the most customers (Buffet, Café, Dining, etc.)?
-![Alt Text](https://raw.githubusercontent.com/your-username/repository-name/main/image-file.png)
+![Alt Text](type_rest.png)
